@@ -142,14 +142,14 @@ function Home() {
           size: '20 Litres - Soft Container',
           price: 'Ksh 450',
           description: 'Convenient and affordable for office or home use.',
-          imageUrl: '/5litre.jpeg',
+          imageUrl: '/20litre.jpeg',
         },
         {
           id: 5,
           size: '20 Litres - Hard Container',
           price: 'Ksh 1500',
           description: 'Durable and reusable for long-term use.',
-          imageUrl: '/20litre.jpeg',
+          imageUrl: '/20lhard.jpg',
         },
         {
           id: 6,
