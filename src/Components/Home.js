@@ -6,8 +6,6 @@ import '../Components/Home.css'
 import Navbar from './Navbar'; // Adjust the path based on your file structure
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import { motion } from 'framer-motion'; // Import motion from framer-motion
-import heroImage from '../assets/hero.png';
-import shoppingImage from '../assets/shopping.png';
 
 function Home() {
     const homeRef = useRef(null);
