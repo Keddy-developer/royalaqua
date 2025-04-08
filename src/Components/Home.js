@@ -133,14 +133,14 @@ function Home() {
         {
           id: 3,
           size: '0.5 Litres',
-          price: 'Ksh 300 per carton',
+          price: 'Ksh 320 per carton',
           description: 'Carton contains 24 bottles. Great for on-the-go use.',
           imageUrl: '/0.5litre.jpeg',
         },
         {
           id: 4,
           size: '20 Litres - Soft Container',
-          price: 'Ksh 450',
+          price: 'Ksh 360',
           description: 'Convenient and affordable for office or home use.',
           imageUrl: '/20litre.jpeg',
         },
@@ -161,7 +161,7 @@ function Home() {
         {
           id: 7,
           size: '5 Litres',
-          price: 'Ksh 330 per carton',
+          price: 'Ksh 330 per carton, 90 per bottle',
           description: 'Carton contains 4 bottles. Perfect for small gatherings.',
           imageUrl: '/5litre.jpeg',
         },
