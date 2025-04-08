@@ -161,7 +161,7 @@ function Home() {
         {
           id: 7,
           size: '5 Litres',
-          price: 'Ksh 330 per carton, 90 per bottle',
+          price: 'Ksh 330 per carton, Ksh 90 per bottle',
           description: 'Carton contains 4 bottles. Perfect for small gatherings.',
           imageUrl: '/5litre.jpeg',
         },
